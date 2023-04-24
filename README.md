@@ -1,5 +1,16 @@
+
 # TP-POO-La-boutique
+
 Projet OpenIT
 
-#Membres de l'équipe :
+
+
+
+
+## Membres de l'équipe :
+
+- 
+- 
+- 
+- Journel Damien
 
