@@ -9,8 +9,7 @@ Projet OpenIT
 
 ## Membres de l'équipe :
 
-- 
-- 
-- 
-- Journel Damien
-
+- BOULOGNE Jules
+- CALVEZ Yanis
+- ROGER DE ROQUELAURE William
+- JOURNEL Damien
